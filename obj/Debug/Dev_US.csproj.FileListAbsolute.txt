@@ -1,0 +1,6 @@
+C:\Users\nitin\Source\Repos\Dev_US\Dev_US\bin\Debug\Dev_US.exe.config
+C:\Users\nitin\Source\Repos\Dev_US\Dev_US\bin\Debug\Dev_US.exe
+C:\Users\nitin\Source\Repos\Dev_US\Dev_US\bin\Debug\Dev_US.pdb
+C:\Users\nitin\Source\Repos\Dev_US\Dev_US\obj\Debug\Dev_US.csproj.CoreCompileInputs.cache
+C:\Users\nitin\Source\Repos\Dev_US\Dev_US\obj\Debug\Dev_US.exe
+C:\Users\nitin\Source\Repos\Dev_US\Dev_US\obj\Debug\Dev_US.pdb
